@@ -1,0 +1,9 @@
+[generators]
+cmake
+
+[requires]
+protobuf/3.5.1@bincrafters/stable
+
+[options]
+
+[imports]

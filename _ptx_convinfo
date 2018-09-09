@@ -1,0 +1,1004 @@
+ptxas info    : Compiling entry function '_ZN5caffe13RMSPropUpdateIfEEviPT_S2_S1_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13RMSPropUpdateIfEEviPT_S2_S1_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13RMSPropUpdateIdEEviPT_S2_S1_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13RMSPropUpdateIdEEviPT_S2_S1_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14NesterovUpdateIfEEviPT_S2_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14NesterovUpdateIfEEviPT_S2_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14NesterovUpdateIdEEviPT_S2_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14NesterovUpdateIdEEviPT_S2_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13AdaGradUpdateIfEEviPT_S2_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13AdaGradUpdateIfEEviPT_S2_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13AdaGradUpdateIdEEviPT_S2_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13AdaGradUpdateIdEEviPT_S2_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe9SGDUpdateIfEEviPT_S2_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe9SGDUpdateIfEEviPT_S2_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe9SGDUpdateIdEEviPT_S2_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe9SGDUpdateIdEEviPT_S2_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14AdaDeltaUpdateIfEEviPT_S2_S2_S1_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14AdaDeltaUpdateIfEEviPT_S2_S2_S1_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14AdaDeltaUpdateIdEEviPT_S2_S2_S1_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14AdaDeltaUpdateIdEEviPT_S2_S2_S1_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10AdamUpdateIfEEviPT_S2_S2_S1_S1_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10AdamUpdateIfEEviPT_S2_S2_S1_S1_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10AdamUpdateIdEEviPT_S2_S2_S1_S1_S1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10AdamUpdateIdEEviPT_S2_S2_S1_S1_S1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14SigmoidForwardIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14SigmoidForwardIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15SigmoidBackwardIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15SigmoidBackwardIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14SigmoidForwardIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14SigmoidForwardIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15SigmoidBackwardIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15SigmoidBackwardIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14DropoutForwardIfEEviPKT_PKjjfPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14DropoutForwardIfEEviPKT_PKjjfPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15DropoutBackwardIfEEviPKT_PKjjfPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15DropoutBackwardIfEEviPKT_PKjjfPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14DropoutForwardIdEEviPKT_PKjjfPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14DropoutForwardIdEEviPKT_PKjjfPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15DropoutBackwardIdEEviPKT_PKjjfPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15DropoutBackwardIdEEviPKT_PKjjfPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12EmbedForwardIfEEviPKT_S3_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12EmbedForwardIfEEviPKT_S3_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13EmbedBackwardIfEEviPKT_S3_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13EmbedBackwardIfEEviPKT_S3_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12EmbedForwardIdEEviPKT_S3_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12EmbedForwardIdEEviPKT_S3_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13EmbedBackwardIdEEviPKT_S3_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13EmbedBackwardIdEEviPKT_S3_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12PReLUForwardIfEEviiiPKT_PS1_S3_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12PReLUForwardIfEEviiiPKT_PS1_S3_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18PReLUParamBackwardIfEEviiiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18PReLUParamBackwardIfEEviiiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13PReLUBackwardIfEEviiiPKT_S3_PS1_S3_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13PReLUBackwardIfEEviiiPKT_S3_PS1_S3_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12PReLUForwardIdEEviiiPKT_PS1_S3_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12PReLUForwardIdEEviiiPKT_PS1_S3_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18PReLUParamBackwardIdEEviiiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18PReLUParamBackwardIdEEviiiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13PReLUBackwardIdEEviiiPKT_S3_PS1_S3_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13PReLUBackwardIdEEviiiPKT_S3_PS1_S3_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14MaxPoolForwardIfEEviPKT_iiiiiiiiiiiiPS1_PiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14MaxPoolForwardIfEEviPKT_iiiiiiiiiiiiPS1_PiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14AvePoolForwardIfEEviPKT_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14AvePoolForwardIfEEviPKT_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe19StoPoolForwardTrainIfEEviPKT_iiiiiiiiiiPS1_S4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe19StoPoolForwardTrainIfEEviPKT_iiiiiiiiiiPS1_S4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18StoPoolForwardTestIfEEviPKT_iiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18StoPoolForwardTestIfEEviPKT_iiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15MaxPoolBackwardIfEEviPKT_PKiS3_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15MaxPoolBackwardIfEEviPKT_PKiS3_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15AvePoolBackwardIfEEviPKT_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15AvePoolBackwardIfEEviPKT_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15StoPoolBackwardIfEEviPKT_S3_iiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15StoPoolBackwardIfEEviPKT_S3_iiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14MaxPoolForwardIdEEviPKT_iiiiiiiiiiiiPS1_PiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14MaxPoolForwardIdEEviPKT_iiiiiiiiiiiiPS1_PiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14AvePoolForwardIdEEviPKT_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14AvePoolForwardIdEEviPKT_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe19StoPoolForwardTrainIdEEviPKT_iiiiiiiiiiPS1_S4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe19StoPoolForwardTrainIdEEviPKT_iiiiiiiiiiPS1_S4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18StoPoolForwardTestIdEEviPKT_iiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18StoPoolForwardTestIdEEviPKT_iiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15MaxPoolBackwardIdEEviPKT_PKiS3_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15MaxPoolBackwardIdEEviPKT_PKiS3_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15AvePoolBackwardIdEEviPKT_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15AvePoolBackwardIdEEviPKT_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15StoPoolBackwardIdEEviPKT_S3_iiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15StoPoolBackwardIdEEviPKT_S3_iiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11BiasForwardIfEEviPKT_S3_iiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11BiasForwardIfEEviPKT_S3_iiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11BiasForwardIdEEviPKT_S3_iiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11BiasForwardIdEEviPKT_S3_iiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe6ConcatIfEEviPKT_biiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe6ConcatIfEEviPKT_biiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe6ConcatIdEEviPKT_biiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe6ConcatIdEEviPKT_biiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16ScaleBiasForwardIfEEviPKT_S3_S3_iiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16ScaleBiasForwardIfEEviPKT_S3_S3_iiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12ScaleForwardIfEEviPKT_S3_iiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12ScaleForwardIfEEviPKT_S3_iiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16ScaleBiasForwardIdEEviPKT_S3_S3_iiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16ScaleBiasForwardIdEEviPKT_S3_S3_iiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12ScaleForwardIdEEviPKT_S3_iiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12ScaleForwardIdEEviPKT_S3_iiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe19crop_kernel_forwardIfEEviiPKiS2_S2_PKT_PS3_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe19crop_kernel_forwardIfEEviiPKiS2_S2_PKT_PS3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20crop_kernel_backwardIfEEviiPKiS2_S2_PT_PKS3_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20crop_kernel_backwardIfEEviiPKiS2_S2_PT_PKS3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe19crop_kernel_forwardIdEEviiPKiS2_S2_PKT_PS3_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe19crop_kernel_forwardIdEEviiPKiS2_S2_PKT_PS3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20crop_kernel_backwardIdEEviiPKiS2_S2_PT_PKS3_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20crop_kernel_backwardIdEEviiPKiS2_S2_PT_PKS3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16ThresholdForwardIfEEviT_PKS1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16ThresholdForwardIfEEviT_PKS1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16ThresholdForwardIdEEviT_PKS1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16ThresholdForwardIdEEviT_PKS1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11CLLBackwardIfEEviiT_bS1_PKS1_S3_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11CLLBackwardIfEEviiT_bS1_PKS1_S3_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11CLLBackwardIdEEviiT_bS1_PKS1_S3_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11CLLBackwardIdEEviiT_bS1_PKS1_S3_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11TanHForwardIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11TanHForwardIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12TanHBackwardIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12TanHBackwardIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11TanHForwardIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11TanHForwardIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12TanHBackwardIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12TanHBackwardIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe21SoftmaxLossForwardGPUIfEEviPKT_S3_PS1_iiibiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe21SoftmaxLossForwardGPUIfEEviPKT_S3_PS1_iiibiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe22SoftmaxLossBackwardGPUIfEEviPKT_S3_PS1_iiibiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe22SoftmaxLossBackwardGPUIfEEviPKT_S3_PS1_iiibiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe21SoftmaxLossForwardGPUIdEEviPKT_S3_PS1_iiibiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe21SoftmaxLossForwardGPUIdEEviPKT_S3_PS1_iiibiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe22SoftmaxLossBackwardGPUIdEEviPKT_S3_PS1_iiibiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe22SoftmaxLossBackwardGPUIdEEviPKT_S3_PS1_iiibiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe33SigmoidCrossEntropyLossForwardGPUIfEEviPKT_S3_PS1_biS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe33SigmoidCrossEntropyLossForwardGPUIfEEviPKT_S3_PS1_biS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe36SigmoidCrossEntropyLossIgnoreDiffGPUIfEEviiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe36SigmoidCrossEntropyLossIgnoreDiffGPUIfEEviiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe33SigmoidCrossEntropyLossForwardGPUIdEEviPKT_S3_PS1_biS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe33SigmoidCrossEntropyLossForwardGPUIdEEviPKT_S3_PS1_biS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe36SigmoidCrossEntropyLossIgnoreDiffGPUIdEEviiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe36SigmoidCrossEntropyLossIgnoreDiffGPUIdEEviiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe5SliceIfEEviPKT_biiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe5SliceIfEEviPKT_biiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe5SliceIdEEviPKT_biiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe5SliceIdEEviPKT_biiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15LSTMActsForwardIfEEviiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15LSTMActsForwardIfEEviiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15LSTMUnitForwardIfEEviiPKT_S3_S3_PS1_S4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15LSTMUnitForwardIfEEviiPKT_S3_S3_PS1_S4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16LSTMUnitBackwardIfEEviiPKT_S3_S3_S3_S3_S3_S3_PS1_S4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16LSTMUnitBackwardIfEEviiPKT_S3_S3_S3_S3_S3_S3_PS1_S4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16LSTMActsBackwardIfEEviiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16LSTMActsBackwardIfEEviiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15LSTMActsForwardIdEEviiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15LSTMActsForwardIdEEviiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe15LSTMUnitForwardIdEEviiPKT_S3_S3_PS1_S4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe15LSTMUnitForwardIdEEviiPKT_S3_S3_PS1_S4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16LSTMUnitBackwardIdEEviiPKT_S3_S3_S3_S3_S3_S3_PS1_S4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16LSTMUnitBackwardIdEEviiPKT_S3_S3_S3_S3_S3_S3_PS1_S4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16LSTMActsBackwardIdEEviiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16LSTMActsBackwardIdEEviiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18AccuracyForwardGPUIfEEviPKT_S3_PS1_iiiiibiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18AccuracyForwardGPUIfEEviPKT_S3_PS1_iiiiibiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe30AccuracyForwardWithPerClassGPUIfEEviPKT_S3_PS1_S4_iiiiibi' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe30AccuracyForwardWithPerClassGPUIfEEviPKT_S3_PS1_S4_iiiiibi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18AccuracyForwardGPUIdEEviPKT_S3_PS1_iiiiibiS4_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18AccuracyForwardGPUIdEEviPKT_S3_PS1_iiiiibiS4_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe30AccuracyForwardWithPerClassGPUIdEEviPKT_S3_PS1_S4_iiiiibi' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe30AccuracyForwardWithPerClassGPUIdEEviPKT_S3_PS1_S4_iiiiibi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10ELUForwardIfEEviPKT_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10ELUForwardIfEEviPKT_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11ELUBackwardIfEEviPKT_S3_S3_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11ELUBackwardIfEEviPKT_S3_S3_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10ELUForwardIdEEviPKT_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10ELUForwardIdEEviPKT_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11ELUBackwardIdEEviPKT_S3_S3_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11ELUBackwardIdEEviPKT_S3_S3_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_maxIfEEviiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_maxIfEEviiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe23kernel_channel_subtractIfEEviiiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe23kernel_channel_subtractIfEEviiiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10kernel_expIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10kernel_expIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_sumIfEEviiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_sumIfEEviiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_divIfEEviiiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_divIfEEviiiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_dotIfEEviiiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_dotIfEEviiiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_maxIdEEviiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_maxIdEEviiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe23kernel_channel_subtractIdEEviiiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe23kernel_channel_subtractIdEEviiiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10kernel_expIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10kernel_expIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_sumIdEEviiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_sumIdEEviiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_divIdEEviiiiPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_divIdEEviiiiPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18kernel_channel_dotIdEEviiiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18kernel_channel_dotIdEEviiiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11ReLUForwardIfEEviPKT_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11ReLUForwardIfEEviPKT_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12ReLUBackwardIfEEviPKT_S3_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12ReLUBackwardIfEEviPKT_S3_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11ReLUForwardIdEEviPKT_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11ReLUForwardIdEEviPKT_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12ReLUBackwardIdEEviPKT_S3_PS1_S1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12ReLUBackwardIdEEviPKT_S3_PS1_S1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe9BRForwardIfEEviiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe9BRForwardIfEEviiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10BRBackwardIfEEviiPKT_S3_S3_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10BRBackwardIfEEviiPKT_S3_S3_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe9BRForwardIdEEviiPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe9BRForwardIdEEviiPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10BRBackwardIdEEviiPKT_S3_S3_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10BRBackwardIdEEviiPKT_S3_S3_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10MaxForwardIfEEviPKT_S3_iPS1_Pi' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10MaxForwardIfEEviPKT_S3_iPS1_Pi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11MaxBackwardIfEEviPKT_iPKiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11MaxBackwardIfEEviPKT_iPKiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10MaxForwardIdEEviPKT_S3_iPS1_Pi' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10MaxForwardIdEEviPKT_S3_iPS1_Pi
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11MaxBackwardIdEEviPKT_iPKiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11MaxBackwardIdEEviPKT_iPKiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12LRNFillScaleIfEEviPKT_iiiiiS1_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12LRNFillScaleIfEEviPKT_iiiiiS1_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16LRNComputeOutputIfEEviPKT_S3_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16LRNComputeOutputIfEEviPKT_S3_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14LRNComputeDiffIfEEviPKT_S3_S3_S3_iiiiiS1_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14LRNComputeDiffIfEEviPKT_S3_S3_S3_iiiiiS1_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12LRNFillScaleIdEEviPKT_iiiiiS1_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12LRNFillScaleIdEEviPKT_iiiiiS1_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16LRNComputeOutputIdEEviPKT_S3_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16LRNComputeOutputIdEEviPKT_S3_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe14LRNComputeDiffIdEEviPKT_S3_S3_S3_iiiiiS1_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe14LRNComputeDiffIdEEviPKT_S3_S3_S3_iiiiiS1_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe4TileIfEEviPKT_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe4TileIfEEviPKT_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12TileBackwardIfEEviPKT_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12TileBackwardIfEEviPKT_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe4TileIdEEviPKT_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe4TileIdEEviPKT_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12TileBackwardIdEEviPKT_iiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12TileBackwardIdEEviPKT_iiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11BNLLForwardIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11BNLLForwardIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12BNLLBackwardIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12BNLLBackwardIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11BNLLForwardIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11BNLLForwardIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe12BNLLBackwardIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe12BNLLBackwardIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe17im2col_gpu_kernelIfEEviPKT_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe17im2col_gpu_kernelIfEEviPKT_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe17im2col_gpu_kernelIdEEviPKT_iiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe17im2col_gpu_kernelIdEEviPKT_iiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIfLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIfLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20im2col_nd_gpu_kernelIdLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20im2col_nd_gpu_kernelIdLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe17col2im_gpu_kernelIfEEviPKT_iiiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe17col2im_gpu_kernelIfEEviPKT_iiiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe17col2im_gpu_kernelIdEEviPKT_iiiiiiiiiiiiiPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe17col2im_gpu_kernelIdEEviPKT_iiiiiiiiiiiiiPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIfLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIfLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi1EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi2EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi3EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi4EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi5EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi6EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi7EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi8EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi9EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe20col2im_nd_gpu_kernelIdLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe20col2im_nd_gpu_kernelIdLi10EEEviPKT_PKiS5_S5_S5_S5_S5_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11mat_mul_N_NEiiiffPKfS1_Pf' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11mat_mul_N_NEiiiffPKfS1_Pf
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11mat_mul_N_TEiiiffPKfS1_Pf' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11mat_mul_N_TEiiiffPKfS1_Pf
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11mat_mul_T_NEiiiffPKfS1_Pf' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11mat_mul_T_NEiiiffPKfS1_Pf
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11mat_mul_T_TEiiiffPKfS1_Pf' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11mat_mul_T_TEiiiffPKfS1_Pf
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe9mat_vec_NEiiffPKfS1_Pf' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe9mat_vec_NEiiffPKfS1_Pf
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe9mat_vec_TEiiffPKfS1_Pf' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe9mat_vec_TEiiffPKfS1_Pf
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18double_mat_mul_N_NEiiiddPKdS1_Pd' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18double_mat_mul_N_NEiiiddPKdS1_Pd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18double_mat_mul_N_TEiiiddPKdS1_Pd' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18double_mat_mul_N_TEiiiddPKdS1_Pd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18double_mat_mul_T_NEiiiddPKdS1_Pd' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18double_mat_mul_T_NEiiiddPKdS1_Pd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe18double_mat_mul_T_TEiiiddPKdS1_Pd' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe18double_mat_mul_T_TEiiiddPKdS1_Pd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16double_mat_vec_NEiiddPKdS1_Pd' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16double_mat_vec_NEiiddPKdS1_Pd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe16double_mat_vec_TEiiddPKdS1_Pd' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe16double_mat_vec_TEiiddPKdS1_Pd
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe7mat_matIfEEviiiT_S1_PKS1_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe7mat_matIfEEviiiT_S1_PKS1_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe7mat_matIdEEviiiT_S1_PKS1_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe7mat_matIdEEviiiT_S1_PKS1_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe7mat_vecIfEEviiT_S1_PKS1_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe7mat_vecIfEEviiT_S1_PKS1_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe7mat_vecIdEEviiT_S1_PKS1_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe7mat_vecIdEEviiT_S1_PKS1_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11axpy_kernelIfEEviPKT_S3_iPS1_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11axpy_kernelIfEEviPKT_S3_iPS1_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11axpy_kernelIdEEviPKT_S3_iPS1_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11axpy_kernelIdEEviPKT_S3_iPS1_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11scal_kernelIfEEviPKT_PS1_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11scal_kernelIfEEviPKT_PS1_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11scal_kernelIdEEviPKT_PS1_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11scal_kernelIdEEviPKT_PS1_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10dot_kernelIfEEviPKT_iS3_iPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10dot_kernelIfEEviPKT_iS3_iPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10dot_kernelIdEEviPKT_iS3_iPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10dot_kernelIdEEviPKT_iS3_iPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11asum_kernelIfEEviPKT_iPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11asum_kernelIfEEviPKT_iPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11asum_kernelIdEEviPKT_iPS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11asum_kernelIdEEviPKT_iPS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11copy_kernelIfEEviPKT_iPS1_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11copy_kernelIfEEviPKT_iPS1_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11copy_kernelIdEEviPKT_iPS1_i' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11copy_kernelIdEEviPKT_iPS1_i
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe17add_scalar_kernelIfEEviT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe17add_scalar_kernelIfEEviT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe17add_scalar_kernelIdEEviT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe17add_scalar_kernelIdEEviT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10add_kernelIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10add_kernelIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10add_kernelIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10add_kernelIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10sub_kernelIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10sub_kernelIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10sub_kernelIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10sub_kernelIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10mul_kernelIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10mul_kernelIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10mul_kernelIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10mul_kernelIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10div_kernelIfEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10div_kernelIfEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10div_kernelIdEEviPKT_S3_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10div_kernelIdEEviPKT_S3_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10abs_kernelIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10abs_kernelIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10abs_kernelIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10abs_kernelIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10exp_kernelIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10exp_kernelIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10exp_kernelIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10exp_kernelIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10log_kernelIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10log_kernelIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10log_kernelIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10log_kernelIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11powx_kernelIfEEviPKT_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11powx_kernelIfEEviPKT_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11powx_kernelIdEEviPKT_S1_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11powx_kernelIdEEviPKT_S1_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11sqrt_kernelIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11sqrt_kernelIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11sqrt_kernelIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11sqrt_kernelIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11sign_kernelIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11sign_kernelIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe11sign_kernelIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe11sign_kernelIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13sgnbit_kernelIfEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13sgnbit_kernelIfEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe13sgnbit_kernelIdEEviPKT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe13sgnbit_kernelIdEEviPKT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10set_kernelIiEEviT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10set_kernelIiEEviT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10set_kernelIfEEviT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10set_kernelIfEEviT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_ZN5caffe10set_kernelIdEEviT_PS1_' for 'sm_20'
+ptxas info    : Function properties for _ZN5caffe10set_kernelIdEEviT_PS1_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv1_1IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv1_1IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv1_1IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv1_1IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv1_2IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv1_2IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv1_2IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv1_2IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv2_1IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv2_1IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv2_1IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv2_1IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv2_2IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv2_2IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv2_2IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv2_2IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv3_1IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv3_1IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv3_1IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv3_1IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv3_2IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv3_2IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv3_2IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv3_2IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv3_3IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv3_3IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv3_3IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv3_3IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv4_1IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv4_1IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv4_1IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv4_1IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv4_2IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv4_2IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv4_2IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv4_2IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv4_3IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv4_3IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv4_3IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv4_3IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv5_1IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv5_1IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv5_1IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv5_1IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv5_2IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv5_2IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv5_2IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv5_2IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv5_3IfEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv5_3IfEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
+ptxas info    : Compiling entry function '_Z7conv5_3IdEvPT_PKS0_S3_S3_' for 'sm_20'
+ptxas info    : Function properties for _Z7conv5_3IdEvPT_PKS0_S3_S3_
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 19 registers, 56 bytes cmem[0], 4 bytes cmem[16]
